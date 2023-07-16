@@ -14,7 +14,7 @@
     </description>
 
     <properties>
-        <vertx.version>3.4.2</vertx.version>
+        <vertx.version>3.9.4</vertx.version>
         <spring.version>4.1.7.RELEASE</spring.version>
     </properties>
 
